@@ -4,6 +4,8 @@ EegeoTree.js is a JavaScript program which will read a text file containing Poin
 
 The program will find the point most isolated point on the map at a complexity of O(n log n).
 
-```Node EegeoTree.js``` 
+```npm install```
 
-Will run the program succesfully for problem_big.txt.
+```node EegeoTree.js``` 
+
+Will run the program succesfully for problem_big.txt. 
