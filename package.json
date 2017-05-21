@@ -5,8 +5,10 @@
   "main": "EegeoCode.js",
   "dependencies": {
     "euclidean-distance": "^1.0.0",
+    "express": "^4.15.3",
     "fs": "0.0.1-security",
     "mathjs": "^3.13.1",
+    "path": "^0.12.7",
     "static-kdtree": "^1.0.1"
   },
   "devDependencies": {},
