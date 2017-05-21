@@ -4,7 +4,10 @@
   "description": "",
   "main": "EegeoCode.js",
   "dependencies": {
-    "euclidean-distance": "^1.0.0"
+    "euclidean-distance": "^1.0.0",
+    "fs": "0.0.1-security",
+    "mathjs": "^3.13.1",
+    "static-kdtree": "^1.0.1"
   },
   "devDependencies": {},
   "scripts": {
